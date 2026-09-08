@@ -1,7 +1,8 @@
 # Purrfect Brew Cat Café Risk Registry
-A demonstration of a Risk Registry made for a fictional cozy cat cafe!
+A demonstration of a Risk Registry made for a fictional cozy cat café!
 
-<a href="https://github.com/xaviusjohnson44/Cat-Cafe-Risk-Registry/blob/main/Risk_Register_Cat_Cafe.xlsx">"Cat Café Risk Register"</a>
+<a href="https://github.com/xaviusjohnson44/Cat-Cafe-Risk-Registry/blob/main/Risk_Register_Cat_Cafe.xlsx">"Find the full Risk Register here!"</a>
+<img src=https://github.com/xaviusjohnson44/Cat-Cafe-Risk-Registry/blob/main/assets/Purrfect%20Brew%20Cat%20Caf%C3%A9%20Risk%20Registry.png>
 
 It demonstrates my ability to identify, evaluate, and score the likelihood and impact of potential threats, and to produce a simple risk register to track how those risks are handled. 
 
