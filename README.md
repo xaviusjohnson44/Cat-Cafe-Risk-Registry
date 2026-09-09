@@ -36,3 +36,4 @@ Employees: 12<br>
 Annual Revenue: $850,000<br>
 Services: Coffee shop, cat lounge reservations, cat adoptions, merchandise sales<br>
 Technology: Microsoft 365, cloud-based POS, public Wi-Fi, booking website<br>
+Risk Appetite: Low but willing to accept minor technology disruptions. However, the company has little to no tolerance for risks such as customer data breaches, payment card information, or regulatory violations.
