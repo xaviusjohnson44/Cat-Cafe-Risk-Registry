@@ -24,8 +24,8 @@ strict access controls, and routine system backups.
 | Likelihood \ Impact | Low (1) | Medium (2) | High (3) |
 |---------------------|----------|----------|----------|
 | **Likely (3)** | | | 🔴 R4 |
-| **Possible (2)** | 🟢 R2 | 🟠 R9 | 🔴 R3, R11, R13 |
-| **Unlikely (1)** | | 🟢 R1, R8, R10, R12 | 🟠 R5, R6, R7 |
+| **Possible (2)** | 🟢 R2 | 🟠 R1, R9 | 🔴 R3, R7, R11, R13 |
+| **Unlikely (1)** | | 🟢 R8, R10, R12 | 🟠 R5, R6 |
 
 ## Purrfect Brew Company Information
 
